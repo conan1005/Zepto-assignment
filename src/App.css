@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding: 5% 30%;
+}
+.heading {
+  font-size: 4rem;
+  font-weight: bold;
+  color: blue;
+}
